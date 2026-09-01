@@ -28,56 +28,6 @@
 
 ---
 
-## `07 / CONTRIBUTIONS`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true">
-
-</div>
-
----
-
-## `08 / CURRENTLY`
-
-```yaml
-focus:
-  - Data Engineering
-  - Data Quality
-  - SAP S/4HANA
-  - Enterprise Data
-  - SQL
-  - Python
-
-learning:
-  - Advanced SQL
-  - Data Architecture
-  - Data Modeling
-  - Cloud Data Platforms
-  - Analytics Engineering
-
-building:
-  - Data quality tools
-  - ETL pipelines
-  - Migration utilities
-  - Data validation frameworks
-```
-
----
-
-## `09 / PRINCIPLES`
-
-```text
-01. Data should be measurable.
-02. Business rules should be explicit.
-03. Transformations should be traceable.
-04. Quality should be automated whenever possible.
-05. Migration without validation is just moving problems.
-06. Good data is data people can trust.
-```
-
----
-
 <div align="center">
 
 ### `Let's build something useful with data.`
