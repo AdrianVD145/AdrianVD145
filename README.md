@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/villarrealdaa)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat-square\&color=58A6FF)
+![ADRIAN VILLARREAL](style=flat-square\&color=58A6FF)
 
 </div>
 
