@@ -15,7 +15,7 @@
 
 ---
 
-## `06 / GITHUB ACTIVITY`
+## `GITHUB ACTIVITY`
 
 <div align="center">
 
