@@ -4,7 +4,7 @@
 
 ### `Data Quality` · `Data Engineering` · `SAP S/4HANA` · `SQL` · `Python`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+turn+messy+data+into+trusted+data.;Building+data+solutions+for+enterprise+systems.;ERP+Migration+%7C+Data+Quality+%7C+Data+Engineering;SQL+%2B+Python+%2B+SAP+S%2F4HANA">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+turn+messy+data+into+trusted+data.;Building+data+solutions+for+enterprise+systems.;ERP+Migration+%7C+Data+Quality+%7C+Data+Engineering;SQL+%2B+Python+%2B+SAP+S%2F4HANA;Hello!">
 
 <br>
 
